@@ -5,4 +5,4 @@
 <h2>3. fileInfo</h2>
 <p> script to know the file info , learnt to use function in powershell </p>
 <h2> 4.retrieveInfo</h2>
-<p>script to get the info about the computer name,Os,uptime, used commands of powershell in this </p>
+<p>script to get the info about the computer name,Os,uptime, used commands of powershell and environment variables </p>
