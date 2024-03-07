@@ -6,3 +6,5 @@
 <p> script to know the file info , learnt to use function in powershell </p>
 <h2> 4.retrieveInfo</h2>
 <p>script to get the info about the computer name,Os,uptime, used commands of powershell and environment variables </p>
+<h2> 5.Installed Programs</h2>
+<p> script to list the installed programs </p>
